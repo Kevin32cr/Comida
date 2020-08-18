@@ -2,42 +2,42 @@
   "carne":[
    {   
       "title":"Carne De oveja",
-      "id":"1",
+      "id":1,
       "price":46.25,
       "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
       "image":"https://www.soycorredor.es/uploads/s1/44/58/73/5c933b760de694f7048b5409-ternera-cordero-o-cerdo-que-carne-cuenta-con-mas-proteinas-nzm.jpeg"
    },
      {   
         "title":"Carne De cerdo",
-        "id":"2",
+        "id":2,
         "price":46.25,
         "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
         "image":"https://www.gob.mx/cms/uploads/article/main_image/83914/carne_de_cerdo_blog.jpg"
      },
      {
       "title":"Carne De vaca",
-      "id":"3",
+      "id":3,
         "price":80.5,
         "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
         "image":"https://saborgourmet.com/wp-content/uploads/jpg_thumb.jpg"
      },
      {
       "title":"Pollo",
-      "id":"5",
-        "price":20.70,
+      "id":5,
+        "price":70.70,
         "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
         "image":"https://www.agrolatam.com/files/image/28/28374/5c62836af2c1c.jpg"
      },
      {
       "title":"Pescado",
-      "id":"6",
-        "price":10.40,
+      "id":6,
+        "price":100.40,
         "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
         "image":"https://www.consumer.es/wp-content/uploads/2019/07/img_pescado-fresco-sa-hd-1280x720.jpg"
      },
      {
       "title":"Pescado blanco",
-      "id":"7",
+      "id":7,
         "price":6.30,
         "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
         "image":"https://okdiario.com/img/vida-sana/2017/05/22/pescado-blanco-2-min.jpg"
@@ -46,69 +46,104 @@
   "bebidas":[
      {   
         "title":"Botella de Agua",
-        "id":"1",
+        "id":1,
         "price":12.67,
         "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
         "image":"https://www.eleconomista.com.mx/__export/1521228097395/sites/eleconomista/img/2018/03/16/principal-epura-microparticulas.jpg_1853814124.jpg"
      },
      {   
       "title":"Zumos de frutas",
-      "id":"2",
+      "id":2,
       "price":15.33,
       "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
       "image":"https://sonaesierracms-v2.cdnpservers.net/wp-content/uploads/sites/28/2018/04/zumos-de-frutas-naturales.jpg"
    },
    {   
       "title":"Extractos de frutas o vegetales",
-      "id":"3",
-      "price":41.32,
+      "id":3,
+      "price":45.32,
       "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
       "image":"https://t1.rg.ltmcdn.com/es/images/3/8/4/img_jugos_de_verduras_para_bajar_de_peso_52483_600.jpg"
    },
    {   
       "title":"Cafe",
-      "id":"4",
-      "price":53.13,
+      "id":4,
+      "price":25.13,
       "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
       "image":"https://s1.eestatic.com/2017/02/13/cocinillas/Cocinillas_193495389_116293002_1024x576.jpg"
    },
    {   
       "title":"Agua de sabor",
       "id":"5",
-      "price":76.43,
+      "price":9.43,
       "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
       "image":"https://i.blogs.es/ef2a3f/14023167149_65e9243e29_k/450_1000.jpg"
    },
    {   
       "title":"Coca Cola",
-      "id":"6",
-      "price":95.43,
+      "id":6,
+      "price":16.43,
       "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
       "image":"https://mui.today/__export/1589466590626/sites/mui/img/2020/05/14/coca-cola-sabor-botella-vidrio.jpg_879108255.jpg"
+   },
+   {   
+      "title":"Juego de Naranja",
+      "id":7,
+      "price":11.43,
+      "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
+      "image":"https://dam.cocinafacil.com.mx/wp-content/uploads/2020/01/jugo-de-naranja.jpg"
    }
     
   ],
 "postres":[
      {   
         "title":"Trufas de cava y frambuesa",
-        "id":"1",
-        "price":90.00,
+        "id":1,
+        "price":17.00,
         "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
         "image":"https://i.blogs.es/9eddfa/trufas_cava_frambuesa/1366_2000.jpg"
      },
      {   
         "title":"brownie",
-        "id":"2",
+        "id":2,
         "price":18.99,
         "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
         "image":"https://i.blogs.es/b72ef3/browniedetresingredientes_1024_ma/1366_2000.jpg"
      },
      {   
       "title":"Pastel",
-      "id":"3",
+      "id":3,
       "price":30.00,
       "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
       "image":"https://i.blogs.es/b72ef3/browniedetresingredientes_1024_ma/1366_2000.jpg"
+   } ,
+   {   
+      "title":"Helado",
+      "id":4,
+      "price":49.99,
+      "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
+      "image":"https://cdn.kiwilimon.com/recetaimagen/36520/th5-640x426-45343.jpg"
+   } ,
+   {   
+      "title":"Cheetos",
+      "id":5,
+      "price":4.99,
+      "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
+      "image":"https://2.bp.blogspot.com/-HLx4q1BzEsw/TaXRd8rD96I/AAAAAAAAARo/Ai_DrUpGttg/s1600/cheetos.jpg"
+   },
+   {   
+      "title":"Elote",
+      "id":6,
+      "price":7.90,
+      "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
+      "image":"https://okdiario.com/img/2019/02/27/elote-al-vapor.jpg"
+   },
+   {   
+      "title":"Esquites",
+      "id":7,
+      "price":9.80,
+      "description":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which",
+      "image":"https://dam.cocinafacil.com.mx/wp-content/uploads/2018/12/esquite-tradicional.jpg"
    } 
   ]
 }
